@@ -104,7 +104,6 @@ PyAudio==0.2.11
 pycparser==2.20
 Pygments==2.7.3
 pyparsing==2.4.7
-pypiwin32==223
 pyrsistent==0.17.3
 pytesseract==0.3.7
 pytest==6.2.1
